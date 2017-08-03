@@ -28,3 +28,4 @@ public class TelaLoginrA extends Application {
         newStage.setIconified(true);
     }
 }
+
